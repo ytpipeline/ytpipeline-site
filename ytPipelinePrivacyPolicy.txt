@@ -1,0 +1,31 @@
+ Privacy Policy
+
+  Last updated: June 1, 2026
+
+  1. Overview
+
+  This tool automates video publishing for Unsolved Vault and Nighttime
+
+  Nightmares on TikTok. We do not operate a public-facing app or website.
+
+  2. Data Collection
+
+  We do not collect, store, or sell any personal data from TikTok users or
+
+  viewers.
+
+  3. TikTok API Usage
+
+  We use the TikTok Content Posting API solely to publish pre-produced video
+
+  content to our own channels. No user data is accessed or stored beyond what is
+
+  required for authentication.
+
+  4. Third-Party Services
+
+  We do not share data with any third parties.
+
+  5. Contact
+
+  For questions, contact yt.content325@gmail.com
